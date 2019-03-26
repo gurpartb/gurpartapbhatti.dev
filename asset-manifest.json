@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.6334a660.chunk.css",
-  "main.js": "/static/js/main.b62cefb8.chunk.js",
-  "main.js.map": "/static/js/main.b62cefb8.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-  "static/js/2.b934461c.chunk.js": "/static/js/2.b934461c.chunk.js",
-  "static/js/2.b934461c.chunk.js.map": "/static/js/2.b934461c.chunk.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.14ae340732f3fe90e752348f655bca66.js": "/precache-manifest.14ae340732f3fe90e752348f655bca66.js",
-  "service-worker.js": "/service-worker.js",
-  "static/css/main.6334a660.chunk.css.map": "/static/css/main.6334a660.chunk.css.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  "main.css": "/gurpartapbhatti.dev/static/css/main.6334a660.chunk.css",
+  "main.js": "/gurpartapbhatti.dev/static/js/main.ee1857ac.chunk.js",
+  "main.js.map": "/gurpartapbhatti.dev/static/js/main.ee1857ac.chunk.js.map",
+  "runtime~main.js": "/gurpartapbhatti.dev/static/js/runtime~main.5ef66212.js",
+  "runtime~main.js.map": "/gurpartapbhatti.dev/static/js/runtime~main.5ef66212.js.map",
+  "static/js/2.b934461c.chunk.js": "/gurpartapbhatti.dev/static/js/2.b934461c.chunk.js",
+  "static/js/2.b934461c.chunk.js.map": "/gurpartapbhatti.dev/static/js/2.b934461c.chunk.js.map",
+  "index.html": "/gurpartapbhatti.dev/index.html",
+  "precache-manifest.c0f37b6f49631fa26aed74af5abc6c02.js": "/gurpartapbhatti.dev/precache-manifest.c0f37b6f49631fa26aed74af5abc6c02.js",
+  "service-worker.js": "/gurpartapbhatti.dev/service-worker.js",
+  "static/css/main.6334a660.chunk.css.map": "/gurpartapbhatti.dev/static/css/main.6334a660.chunk.css.map",
+  "static/media/logo.svg": "/gurpartapbhatti.dev/static/media/logo.5d5d9eef.svg"
 }
